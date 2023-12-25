@@ -41,7 +41,7 @@ def wirter2csv(response, data, i):
 openai.api_type = "azure"
 openai.api_base = "https://hkust.azure-api.net/"
 openai.api_version = "2023-05-15"
-openai.api_key = "2593cee0e1b94c4f8ba138d996efb038"
+openai.api_key = ""
 openai.temprature = 0.2
 
 # load the csv file
